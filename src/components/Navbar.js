@@ -6,6 +6,10 @@ const Navbar = () => {
     <div id="nav-return">
       <nav>
         <Link to="/">Home</Link>
+        <Link to="gallery">Gallery</Link>
+        <Link to="services">Services</Link>
+        <Link to="shop">Shop</Link>
+        <Link to="contact">Contact</Link>
       </nav>
     </div>
   )

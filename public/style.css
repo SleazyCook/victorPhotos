@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
+
 
 body {
   color: green;
@@ -8,6 +10,12 @@ body {
 
 header {
   text-align: center;
+  font-family: 'Tangerine';
+}
+
+h1 {
+  font-family: 'Tangerine';
+
 }
 
 /* NAVBAR */
