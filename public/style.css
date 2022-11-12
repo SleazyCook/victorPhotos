@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+
+body {
+  color: green;
+  background-color: black;
+}
+
+header {
+  text-align: center;
+}
+
+/* NAVBAR */
+#nav-return {
+  width: 100vw;
+  text-align: center;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+}
+
+#author {
+  font-family: 'Berkshire Swash';
+}
+
+/* HOME */
+#home-return {
+  text-align: center;
+}
