@@ -1,3 +1,5 @@
+/* Gallery code sourced from Code With Yd: Responsive Image gallery in React js | Build a Photo Gallery With React js | Image Gallery in React (YouTube) */
+
 .gallery{
   -webkit-column-count: 3;
   -mox-column-count: 3;

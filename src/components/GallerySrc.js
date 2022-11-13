@@ -111,6 +111,7 @@ const GallerySrc = () => {
     },
 
   ]
+  // Gallery code sourced from Code With Yd: Responsive Image gallery in React js | Build a Photo Gallery With React js | Image Gallery in React (YouTube)
   const [model, setModel] = useState(false);
   const [tempImgSrc, setTempImgSrc] = useState('');
   const getImg = (imgSrc) => {
