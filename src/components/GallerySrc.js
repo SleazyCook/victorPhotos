@@ -11,11 +11,63 @@ const GallerySrc = () => {
     },
     {
       id: 2,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
+      imgSrc: 'https://i.imgur.com/mkXsYAI.png'
+    },
+    {
+      id: 1,
+      imgSrc: 'https://i.imgur.com/NmJEXNJ.png'
+    },
+    {
+      id: 2,
+      imgSrc: 'https://i.imgur.com/oZEouat.png'
+    },
+    {
+      id: 6,
+      imgSrc: 'https://i.imgur.com/eKGz1Do.png'
+    },
+    {
+      id: 1,
+      imgSrc: 'https://i.imgur.com/ol4KyGl.png'
+    },
+    {
+      id: 2,
+      imgSrc: 'https://i.imgur.com/yVnQLYx.png'
+    },
+    {
+      id: 1,
+      imgSrc: 'https://i.imgur.com/GrI2fAn.png'
     },
     {
       id: 1,
       imgSrc: 'https://i.imgur.com/AdGSqnr.png'
+    },
+    {
+      id: 5,
+      imgSrc: 'https://i.imgur.com/u0R4zTs.png'
+    },
+    {
+      id: 2,
+      imgSrc: 'https://i.imgur.com/mkXsYAI.png'
+    },
+    {
+      id: 1,
+      imgSrc: 'https://i.imgur.com/NmJEXNJ.png'
+    },
+    {
+      id: 2,
+      imgSrc: 'https://i.imgur.com/oZEouat.png'
+    },
+    {
+      id: 1,
+      imgSrc: 'https://i.imgur.com/ol4KyGl.png'
+    },
+    {
+      id: 2,
+      imgSrc: 'https://i.imgur.com/yVnQLYx.png'
+    },
+    {
+      id: 1,
+      imgSrc: 'https://i.imgur.com/GrI2fAn.png'
     },
     {
       id: 2,
@@ -27,87 +79,27 @@ const GallerySrc = () => {
     },
     {
       id: 2,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
+      imgSrc: 'https://i.imgur.com/mkXsYAI.png'
     },
     {
       id: 1,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
+      imgSrc: 'https://i.imgur.com/NmJEXNJ.png'
     },
     {
       id: 2,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
+      imgSrc: 'https://i.imgur.com/oZEouat.png'
     },
     {
       id: 1,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
+      imgSrc: 'https://i.imgur.com/ol4KyGl.png'
     },
     {
       id: 2,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
+      imgSrc: 'https://i.imgur.com/yVnQLYx.png'
     },
     {
       id: 1,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 2,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 1,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 2,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 1,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 2,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 1,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 2,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 1,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 2,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 1,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 2,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 1,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 2,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 1,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
-    },
-    {
-      id: 2,
-      imgSrc: 'https://i.imgur.com/AdGSqnr.png'
+      imgSrc: 'https://i.imgur.com/GrI2fAn.png'
     },
     {
       id: 1,
